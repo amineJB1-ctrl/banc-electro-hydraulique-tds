@@ -33,6 +33,12 @@ internship partner, who wrote the internship report (not included in this reposi
 | `fluidsim/` | FluidSIM circuit simulations |
 | `tp/` | The 6 lab exercises |
 
+## Also included
+
+- `source/_static/TP1.pdf` … `TP6.pdf` — the six lab exercises as printable handouts
+- `source/_static/tp1.mp4` … `tp6.mp4` — video recordings of each exercise
+  running on the real bench
+
 ## Tools
 
 Sphinx · reStructuredText · Netlify · ISPSoft (DELTA DVP) · DOPSoft · FluidSIM
